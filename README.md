@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I am a free spirited, enthusiastic learner, currently studying CSE undergraduate course in S.R.M Institute of Technology. I enjoy taking self initiative to start new things. I love learning new technologies and my current interests are- Programming, Data Science and Web Development. I am an avid blogger, raving to participate in hackathons and sharpen my technical skills. In my free time, I love sketching, watching anime and hang out with my friends.</h3>
+<h3 align="center">I am a free spirited, enthusiastic learner, currently studying CSE undergraduate course in S.R.M Institute of Technology. I enjoy taking self initiative to start new things. I love learning new technologies and my current interests are- Programming, Data Science and Web Development. I am an avid blogger, raving to participate in hackathons and sharpen my technical skills. In my free time, I love sketching, watching anime and hang out with my friends. gptta edit this later</h3>
 
 - 🔭 I’m currently working on [Weather App](https://github.com/moduluz/Weather-App)
 
