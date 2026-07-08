@@ -13,7 +13,7 @@ maybe on 3/7/26</h3>
 
 - 📫 How to reach me **adityakhichi2003@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **I am Bat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
